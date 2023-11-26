@@ -5,3 +5,6 @@
 <li>Convert Roman Number into Integer by using Switch-Case</li>
 <li>Find Pangram Sentence </li>
 </ol>
+<hr>
+<br><pre>Author - Sania Akhtar
+Contact - saniaakhtar1712@gmail.com , 8210962561</pre>
